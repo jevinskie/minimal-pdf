@@ -1,0 +1,89 @@
+%PDF-1.1
+%¿÷¢þ
+%QDF-1.0
+
+%% Original object ID: 1 0
+1 0 obj
+<<
+  /Pages 2 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 2 0
+2 0 obj
+<<
+  /Count 1
+  /Kids [
+    3 0 R
+  ]
+  /MediaBox [
+    0
+    0
+    595
+    792
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 3 0
+3 0 obj
+<<
+  /Contents 4 0 R
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1 <<
+        /BaseFont /Times-Roman
+        /Subtype /Type1
+        /Type /Font
+      >>
+    >>
+  >>
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 4 0
+4 0 obj
+<<
+  /Length 5 0 R
+>>
+stream
+  BT
+    /F1 18 Tf
+    248 396 Td
+    (Hello World) Tj
+  ET
+endstream
+endobj
+
+5 0 obj
+60
+endobj
+
+%% Original object ID: 5 0
+6 0 obj
+55
+endobj
+
+xref
+0 7
+0000000000 65535 f
+0000000052 00000 n
+0000000133 00000 n
+0000000288 00000 n
+0000000546 00000 n
+0000000661 00000 n
+0000000707 00000 n
+trailer <<
+  /Root 1 0 R
+  /Size 7
+  /ID [<04c563991413aeac2236cc36f6a5fd13><a3b2fd9fa83ae2f7727599f0cd5cbedc>]
+>>
+startxref
+726
+%%EOF
